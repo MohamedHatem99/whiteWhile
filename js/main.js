@@ -7,7 +7,7 @@ $(document).ready(function(){
             rtl:true,
             loop: true,
             autoplay:true,
-            autoplayTimeout:5000,
+            autoplayTimeout: 4000,
             autoplayHoverPause:true,
             URLhashListener:true,
             autoplayHoverPause:true,
