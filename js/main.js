@@ -25,12 +25,10 @@ $(document).ready(function(){
                 800:{
                     items:2,
                     nav:true,
-                    loop:false
                 },
                 1000:{
                     items:3,
                     nav:true,
-                    loop:false
                 }
             }
         
