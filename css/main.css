@@ -46,10 +46,6 @@ a{
     border-radius: 10px;
   }
   
-  /* Handle on hover */
-  ::-webkit-scrollbar-thumb:hover {
-  }
-
 
 /* Owl Cursoul */
 .WhitePointServiceCenter .owl-carousel .owl-dots .owl-dot.active span {
@@ -85,47 +81,9 @@ nav ul {
 /* Carsoul */
 .carousel-item {
     position: relative;
-    max-height: 660px;
-    background-position: bottom;
-    
+    max-height: 700px;
+    background-position: bottom;   
 }
-#carouselExampleCaptions .carousel-inner .carousel-item .carousel-caption p,
-#carouselExampleCaptions .carousel-inner .carousel-item .carousel-caption a {
-    /* background-color: #072655cb; */
-    color: #072655cb;
-    width: fit-content;
-    font-weight: bold;
-}
-
-#carouselExampleCaptions .carousel-inner .carousel-item .carousel-caption a {
-        word-spacing: 10px;
-        font-size: 50px;
-}
-@media (max-width: 576px) { 
-    #carouselExampleCaptions .carousel-inner .carousel-item .carousel-caption p {
-        font-size: 6vw;
-        font-weight: bold;
-    }
-    #carouselExampleCaptions .carousel-inner .carousel-item .carousel-caption a {
-        font-size: 5vw;
-        font-weight: bold;
-    }
-    
-    
-}
-
-@media (max-width: 767.98px) { 
-    #carouselExampleCaptions .carousel-inner .carousel-item .carousel-caption p {
-        font-size: 8vw;
-        font-weight: bold;
-    }
-    #carouselExampleCaptions .carousel-inner .carousel-item .carousel-caption a {
-        font-size: 7vw;
-        font-weight: bold;
-    }
-}
-
-
 
 /* Start Why US */
 .whyUS {
@@ -182,13 +140,6 @@ nav ul {
     border: none;
     border-radius: 0px;
     overflow: hidden;
-}
-.WhitePointServiceCenter .owl-carousel .card img {
-    /* width: 100%; */
-    /* height: 17vw; HIDDEN*/
-    /* height: 250px; */
-    /* -o-object-fit: cover; */
-       /* object-fit: cover; */
 }
 .WhitePointServiceCenter .textAfterCursoul p {
     font-size: 18px;
