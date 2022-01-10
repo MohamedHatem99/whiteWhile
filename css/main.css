@@ -76,12 +76,12 @@ nav ul {
 }
 
 .carousel-inner{
-    max-height: 690px;
+    max-height: 660px;
 }
 /* Carsoul */
 .carousel-item {
     position: relative;
-    max-height: 700px;
+    max-height: 660px;
     background-position: bottom;   
 }
 
